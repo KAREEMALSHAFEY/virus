@@ -37,9 +37,9 @@ Infect is a bash based script which is officially made for termux users and from
 * `git clone https://github.com/kareem68960/virus.git`
 * `cd $HOME`
 * `ls`
-* `cd infect`
+* `cd virus `
 * `ls`
-* `bash infect.sh`
+* `kareemalshafey.sh`
 ```
 [+]-- Now you need internet connection to continue further process...
 [+]-- You can select any option by clicking on your keyboard
