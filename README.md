@@ -39,7 +39,7 @@ Infect is a bash based script which is officially made for termux users and from
 * `ls`
 * `cd virus `
 * `ls`
-* `kareemalshafey.sh`
+* `bash kareemalshafey.sh`
 ```
 [+]-- Now you need internet connection to continue further process...
 [+]-- You can select any option by clicking on your keyboard
